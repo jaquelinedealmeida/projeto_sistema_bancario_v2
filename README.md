@@ -1,4 +1,4 @@
-PROJETO SISTEMA BANCÁRIO # 
+# PROJETO SISTEMA BANCÁRIO
 
 ## Objetivo: 
    Otimizar o sistema bancário, separando por funções de saque, saldo e extrato. Necessário também incluir funções para cadastro de cliente e conta corrente. 
